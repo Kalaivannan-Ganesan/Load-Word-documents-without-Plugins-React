@@ -1,4 +1,4 @@
-# Load-Word-documents-without-Plugins-React
+# Load Word documents without Plugins React
 This repository contains an example of how to load and display Word documents in React without using external plugins using the Syncfusion DOCX Editor. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
